@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2112K-X.XTRG1
+D The  AP2112  is  CMOS  process  low  dropout  linear  regulator  with enable  function,  the  regulator  delivers  a  guaranteed  600mA  (min.) continuous load current.
+K linear voltage regulator enable low dropout
+F https://www.diodes.com/assets/Datasheets/AP2112.pdf
+$ENDCMP
+#
+#End Doc Library

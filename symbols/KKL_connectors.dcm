@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RJ45_8P8C
+D Common RJ45 with 8 wires, no LEDs
+$ENDCMP
+#
+#End Doc Library
